@@ -1,0 +1,25 @@
+﻿  mulobject.cpp
+c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(64): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(64): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(65): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(65): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(66): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(66): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(67): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(67): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(68): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(68): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(69): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(69): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(184): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(200): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(201): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(279): warning C4101: 'y': unreferenced local variable
+c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(279): warning C4101: 'x': unreferenced local variable
+c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(580): warning C4715: 'case1': not all control paths return a value
+c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(585): warning C4715: 'case2': not all control paths return a value
+c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(590): warning C4715: 'case3': not all control paths return a value
+c:\users\hassa\documents\visual studio 2015\projects\opencvintro\opencvintro\mulobject.cpp(595): warning C4715: 'case4': not all control paths return a value
+  OpenCVintro.vcxproj -> C:\Users\hassa\Documents\Visual Studio 2015\Projects\OpenCVintro\x64\Debug\OpenCVintro.exe
+  OpenCVintro.vcxproj -> C:\Users\hassa\Documents\Visual Studio 2015\Projects\OpenCVintro\x64\Debug\OpenCVintro.pdb (Full PDB)
